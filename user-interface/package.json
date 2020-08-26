@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "antd": "^2.13.10",
-    "axios": "^0.16.2",
+    "axios": "^0.20.0",
     "font-awesome": "^4.7.0",
     "io-ts": "^0.8.1",
     "is-url": "^1.2.2",
